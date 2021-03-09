@@ -1,0 +1,17 @@
+.header {
+    grid-area: h;
+    margin-top: 12.5px;
+    background: #007965;
+    font-family: "Californian FB";
+    font-size: 100px;
+    position: static;
+    padding-left: 210px;
+    padding-top: 60px;
+    color: #d99766;
+}
+
+/* .header img{
+ width: 1400px;
+ height: 225px;
+ border-radius: 70px;
+ }*/
